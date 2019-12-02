@@ -24,5 +24,12 @@ namespace WpfGestionEtudiant
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            namelabel.Content = "bader";
+        }
+
+
     }
 }

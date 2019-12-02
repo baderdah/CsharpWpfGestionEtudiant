@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\obj\Debug\WpfGestionEtudiant.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\obj\Debug\WpfGestionEtudiant_MarkupCompile.cache
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\obj\Debug\WpfGestionEtudiant_MarkupCompile.lref
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\bin\Debug\WpfGestionEtudiant.exe.config
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\bin\Debug\WpfGestionEtudiant.exe
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\bin\Debug\WpfGestionEtudiant.pdb
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\obj\Debug\WpfGestionEtudiant.g.resources
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\obj\Debug\WpfGestionEtudiant.Properties.Resources.resources
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\obj\Debug\WpfGestionEtudiant.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\obj\Debug\WpfGestionEtudiant.exe
+\\Mac\Home\Desktop\C# work\WpfGestionEtudiant\WpfGestionEtudiant\obj\Debug\WpfGestionEtudiant.pdb
