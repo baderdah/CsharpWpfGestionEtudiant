@@ -6,7 +6,10 @@
         xmlns:local="clr-namespace:WpfGestionEtudiant"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+    <Grid RenderTransformOrigin="0.498,0.505">
+        <Button Content="bader" HorizontalAlignment="Left" Margin="141,158,0,0" VerticalAlignment="Top" Width="75" Background="#FFD1C0C0" IsCancel="True"/>
+        <Button Content="mouad" HorizontalAlignment="Left" Margin="513,163,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="name" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="313,269,0,0" Width="122"/>
+
     </Grid>
 </Window>
